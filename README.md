@@ -1,5 +1,7 @@
 # Unity as a Library integration example to iOS and Android #
 
+WHY THE FORK HAS BEEN MADE? SEE [DEVLOGS](docs/devlogs.md).
+
 In some scenario developers using native platform technologies (like Android/Java & iOS/Objective C) want to include in their apps/games features powered by Unity for 3D/2D Real Time Rendering, AR experience, interaction with 3D models, 2D mini games and more.
 
 Starting with Unity 2019.3.0a2, Unity  introduced a new feature to use Unity as a library in native apps by integrating the Unity runtime components and content in a native platform project. The Unity Runtime Library exposes controls to manage when and how to load/activate/unload within the native application.
